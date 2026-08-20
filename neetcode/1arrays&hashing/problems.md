@@ -1,8 +1,8 @@
 # NeetCode 150 — Arrays & Hashing
 
 - [x] 217 - Contains Duplicate - Easy
-- [ ] 242 - Valid Anagram - Easy
-- [ ] 1 - Two Sum - Easy
+- [x] 242 - Valid Anagram - Easy
+- [x] 1 - Two Sum - Easy
 - [ ] 49 - Group Anagrams - Medium
 - [ ] 347 - Top K Frequent Elements - Medium
 - [ ] 271 - Encode and Decode Strings - Medium (Premium)
