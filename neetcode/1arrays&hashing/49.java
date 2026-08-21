@@ -1,6 +1,7 @@
 // 49. Group Anagrams
 // https://leetcode.com/problems/group-anagrams/
 // Time: O(n*k) Space: O(n*k)
+// Build identifier arrays for all words, these are unique check for the same 
 
 import java.util.ArrayList;
 import java.util.Arrays;

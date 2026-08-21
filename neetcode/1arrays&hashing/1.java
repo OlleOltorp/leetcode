@@ -1,6 +1,7 @@
 // 1. Two Sum
 // https://leetcode.com/problems/two-sum/
 // Time: O(n) Space: O(n)
+// Idea: Look for the perfect value needed (complement)
 
 import java.util.HashMap;
 import java.util.Map;

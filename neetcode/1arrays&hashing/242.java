@@ -1,6 +1,7 @@
 // 242. Valid Anagram
 // https://leetcode.com/problems/valid-anagram/description/
 // Time: O(n) Space: O(1)
+// Build arrayCounter for all chars, count and substract to get anagrams
 
 class Solution {
     public boolean isAnagram(String s, String t) {
