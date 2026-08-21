@@ -1,7 +1,7 @@
 // 217. Contains Duplicate
 // https://leetcode.com/problems/contains-duplicate/
 // Time: O(n) Space: O(n)
-// Use Map
+// Idea: Use Map
 
 import java.util.Set;
 import java.util.HashSet;
