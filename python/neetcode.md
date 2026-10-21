@@ -2,7 +2,7 @@
 
 ## Arrays & Hashing
 
-- [ ] 217 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Easy
+- [x] 217 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Easy
 - [ ] 242 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - Easy
 - [ ] 1 - [Two Sum](https://leetcode.com/problems/two-sum/) - Easy
 - [ ] 49 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium
