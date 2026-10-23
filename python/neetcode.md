@@ -9,7 +9,7 @@
 - [x] 347 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Medium
 - [x] 238 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Medium
 - [x] 36 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium
-- [ ] 271 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) - Medium
+- [x] 271 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) - Medium
 - [ ] 128 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Medium
 
 ## Two Pointers
